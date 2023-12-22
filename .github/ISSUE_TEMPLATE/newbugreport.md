@@ -1,6 +1,4 @@
----
- 
-name: NewBugReport
+ name: NewBugReport
 description: File a bug report
 title: "[Bug]: "
 about: this is bug report
@@ -64,4 +62,3 @@ body:
      option:
        - label: I agree to follow this project's Code of Conduct
          required: true
----
